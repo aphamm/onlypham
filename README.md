@@ -1,9 +1,10 @@
-### Hi there I'm Austin 👋
+<h1 align="center">Hi 👋, I'm Austin</h1>
+<h3 align="center">An aspiring Backend Dev + ML Engineer</h3>
 
-An aspiring Backend Dev + ML Engineer
+- 🏋️‍♂️ I’m currently working on: Social Media App using MERN stack.
+- 📚 Currently learning about: LSTM & Speech Recognition Models.
+- ✍️ Language proficiency: Python, C++, R, JS, SQL, Bash
+- 🎹 Find me on [Soundcloud](https://soundcloud.com/austin-pham-40930406)!
+- 📫 Shoot me an email at `austinpham77@g.ucla.edu`.
 
-- 🔭 I’m currently working on: Speech Detection
-- 🌱 I’m currently learning: Express + Node
-- 🤔 I’m looking to collaborate on: 
-- 💬 Ask me about: music production + meditation
-- 📫 How to reach me: austinpham77@g.ucla.edu
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlypham&count_private=true&show_icons=true&theme=dark)
