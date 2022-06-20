@@ -4,7 +4,7 @@
 - 🏋️‍♂️ I’m currently working on `Social Media App`
 - 📚 Currently learning about `LSTM & Speech Recognition Models`
 - ✍️ Language proficiency `Python, C++, R, JS, SQL, Bash`
-- 🎹 Find me on [Soundcloud](https://soundcloud.com/austin-pham-40930406)!
-- 📫 Shoot me an email at `austinpham77@g.ucla.edu`.
+- 🎹 Find me on [Soundcloud](https://soundcloud.com/austin-pham-40930406)
+- 📫 Shoot me an email at `austinpham77@g.ucla.edu`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onlypham&count_private=true&show_icons=true&theme=dark)
